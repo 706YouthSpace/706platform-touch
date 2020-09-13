@@ -86,15 +86,15 @@ export default {
     &__cn {
       width: 290px;
       margin: 28px auto 0 auto;
-      font-size: 42px;
+      font-size: 40px;
       line-height: 45px;
       font-weight: bold;
     }
 
     &__en {
-      width: 321px;
+      width: 308px;
       margin: 19px auto 0 auto;
-      font-size: 13px;
+      font-size: 12px;
     }
 
     &__medias {
