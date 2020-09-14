@@ -6,6 +6,7 @@ function resolve (dir) {
 }
 
 module.exports = {
+  publicPath: process.env.NODE_ENV === 'production' ? '/m' : '/',
   devServer: {
     port: 9527,
     proxy: {
